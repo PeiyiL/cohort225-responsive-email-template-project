@@ -1,0 +1,25 @@
+.myTheme{
+    background-color: navy;   
+}
+
+body{
+    background-color: navy;   
+    
+}
+
+
+.myEmailBody{
+    padding:0;
+}
+.mobileEmailContent{
+    height: 20vh;
+    min-height: 166px;
+    padding:0;
+}
+
+.myButton{
+    padding-bottom: 2vh;
+}
+.mySetting{
+    padding-top: 100px;
+}
