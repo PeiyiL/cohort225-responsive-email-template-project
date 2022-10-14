@@ -3,23 +3,9 @@
 }
 
 body{
-    background-color: navy;   
-    
+    min-width:200px;
 }
 
-
-.myEmailBody{
-    padding:0;
-}
-.mobileEmailContent{
-    height: 20vh;
-    min-height: 166px;
-    padding:0;
-}
-
-.myButton{
-    padding-bottom: 2vh;
-}
-.mySetting{
-    padding-top: 100px;
+.myVerticalScroll{
+    min-width: 97px;
 }
