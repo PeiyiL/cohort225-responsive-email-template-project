@@ -3,9 +3,9 @@
 }
 
 body{
-    min-width:200px;
+    min-width:300px;
 }
 
-.myVerticalScroll{
+.mySideScroll{
     min-width: 97px;
 }
